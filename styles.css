@@ -1,0 +1,62 @@
+body{
+  background-color: #395B64;
+}
+
+footer{
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Lobster', cursive;
+  font-weight: lighter;
+  font-size: 1rem;
+  color: #A5C9CA;
+}
+
+h1{
+  font-size: 8rem;
+  margin: 20px;
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  color: #A5C9CA;
+}
+
+img{
+  width: 70%;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+  font-weight: normal;
+  font-size: 2rem;
+  color: #A5C9CA;
+}
+
+/* Class Attriubutes */
+
+.btn{
+  margin-top: 20px;
+  padding: 10px 15px;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 2rem;
+  border: none;
+  background-color: #2C3333;
+  color: #fff;
+  font-family: 'Lobster', cursive;
+  font-weight: lighter;
+}
+
+.btn:hover{
+  background-color: #fff;
+  color: #2C3333;
+}
+
+.container{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+
+.dicee{
+  display: inline-block;
+  text-align: center;
+}
